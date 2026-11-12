@@ -1,0 +1,38 @@
+{
+  "name": "Jeremias Gauto",
+  "initials": "JG",
+  "role": "Data Analyst",
+  "location": "",
+  "headline": "Convierto datos en decisiones.",
+  "headlineHighlight": "decisiones",
+  "bio": "Diseño modelos de datos, dashboards y análisis que ayudan a los equipos a entender qué está pasando en el negocio y qué hacer al respecto.",
+  "careerStartYear": null,
+  "cv": "",
+  "email": "",
+  "socials": {
+    "linkedin": "",
+    "github": "https://github.com/JeremiasGauto",
+    "web": ""
+  },
+  "contactText": "Si tenés un proyecto, una vacante o simplemente querés intercambiar ideas sobre datos, escribime.",
+  "skills": [
+    { "group": "Visualización y BI", "items": ["Power BI", "DAX", "Power Query (M)", "Diseño de dashboards"] },
+    { "group": "Datos y SQL", "items": ["SQL", "Modelado dimensional", "ETL", "Microsoft Fabric"] },
+    { "group": "Análisis y programación", "items": ["Python", "pandas", "Excel avanzado", "Estadística"] },
+    { "group": "Negocio y trabajo", "items": ["Definición de KPIs", "Storytelling con datos", "Git / GitHub", "Trabajo con stakeholders"] }
+  ],
+  "experience": [
+    {
+      "period": "Año — Actualidad",
+      "role": "Data Analyst",
+      "org": "Empresa",
+      "description": "Describí en una o dos líneas qué hacés y qué impacto tuvo tu trabajo."
+    },
+    {
+      "period": "Año — Año",
+      "role": "Formación / Certificación",
+      "org": "Institución",
+      "description": "Carrera, curso o certificación relevante (por ejemplo PL-300)."
+    }
+  ]
+}

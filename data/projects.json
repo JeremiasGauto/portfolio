@@ -1,0 +1,53 @@
+[
+  {
+    "id": "ejemplo-dashboard-ventas",
+    "title": "Dashboard de ventas (ejemplo)",
+    "date": "2026-10",
+    "featured": true,
+    "summary": "Proyecto de ejemplo: reemplazalo por uno tuyo. Tablero ejecutivo con ventas, margen y evolución mensual.",
+    "description": [
+      "Este es un proyecto de ejemplo para mostrar cómo se ve una card. Reemplazá el texto, las imágenes y los links en data/projects.json.",
+      "Contá el problema de negocio, qué datos usaste, cómo los modelaste y qué decisión permitió tomar el análisis."
+    ],
+    "tools": ["Power BI", "DAX", "SQL"],
+    "cover": { "type": "image", "src": "assets/projects/ejemplo-dashboard-ventas/cover.svg", "alt": "Vista previa del dashboard de ventas" },
+    "media": [
+      { "type": "image", "src": "assets/projects/ejemplo-dashboard-ventas/cover.svg", "caption": "Vista general del tablero" },
+      { "type": "image", "src": "assets/projects/ejemplo-dashboard-ventas/detalle.svg", "caption": "Detalle por región" }
+    ],
+    "highlights": [
+      { "label": "Fuentes de datos", "value": "3" },
+      { "label": "Medidas DAX", "value": "25+" },
+      { "label": "Horas ahorradas / mes", "value": "10" }
+    ],
+    "links": [
+      { "label": "Ver repositorio", "url": "https://github.com/JeremiasGauto" }
+    ]
+  },
+  {
+    "id": "ejemplo-analisis-clientes",
+    "title": "Análisis de clientes (ejemplo)",
+    "date": "2026-07",
+    "summary": "Proyecto de ejemplo: segmentación de clientes y análisis de churn con Python.",
+    "description": "Proyecto de ejemplo. Acá va la descripción del análisis, las preguntas que respondiste y los hallazgos principales.",
+    "tools": ["Python", "pandas", "SQL"],
+    "cover": { "type": "image", "src": "assets/projects/ejemplo-analisis-clientes/cover.svg", "alt": "Gráfico de segmentación de clientes" },
+    "media": [
+      { "type": "image", "src": "assets/projects/ejemplo-analisis-clientes/cover.svg", "caption": "Segmentos de clientes" }
+    ],
+    "links": []
+  },
+  {
+    "id": "ejemplo-modelo-fabric",
+    "title": "Modelo de datos en Fabric (ejemplo)",
+    "date": "2026-04",
+    "summary": "Proyecto de ejemplo: modelo semántico en esquema estrella sobre un Lakehouse.",
+    "description": "Proyecto de ejemplo. Explicá la arquitectura, el modelo y cómo se actualizan los datos.",
+    "tools": ["Microsoft Fabric", "Power BI", "SQL"],
+    "cover": { "type": "image", "src": "assets/projects/ejemplo-modelo-fabric/cover.svg", "alt": "Diagrama de un modelo en esquema estrella" },
+    "media": [
+      { "type": "image", "src": "assets/projects/ejemplo-modelo-fabric/cover.svg", "caption": "Esquema estrella" }
+    ],
+    "links": []
+  }
+]

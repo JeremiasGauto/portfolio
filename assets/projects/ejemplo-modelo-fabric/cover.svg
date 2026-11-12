@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 800"><rect width="1280" height="800" fill="#0f1520"/><text x="64" y="96" font-family="Segoe UI,Arial" font-size="30" font-weight="700" fill="#e8ecf3">Modelo en esquema estrella</text><text x="1050" y="96" font-family="Consolas,monospace" font-size="18" fill="#8590a3">EJEMPLO</text>
+<g stroke="#232d3f" stroke-width="3"><line x1="640" y1="450" x2="300" y2="250"/><line x1="640" y1="450" x2="980" y2="250"/><line x1="640" y1="450" x2="300" y2="650"/><line x1="640" y1="450" x2="980" y2="650"/></g>
+<g font-family="Segoe UI,Arial" font-size="22" font-weight="600" text-anchor="middle"><rect x="510" y="390" width="260" height="120" rx="12" fill="#5b8cff"/><text x="640" y="458" fill="#0b0f17">fact_ventas</text>
+<rect x="190" y="200" width="220" height="100" rx="12" fill="#131a26" stroke="#2cc8b2" stroke-width="2"/><text x="300" y="258" fill="#e8ecf3">dim_fecha</text>
+<rect x="870" y="200" width="220" height="100" rx="12" fill="#131a26" stroke="#2cc8b2" stroke-width="2"/><text x="980" y="258" fill="#e8ecf3">dim_producto</text>
+<rect x="190" y="600" width="220" height="100" rx="12" fill="#131a26" stroke="#2cc8b2" stroke-width="2"/><text x="300" y="658" fill="#e8ecf3">dim_cliente</text>
+<rect x="870" y="600" width="220" height="100" rx="12" fill="#131a26" stroke="#2cc8b2" stroke-width="2"/><text x="980" y="658" fill="#e8ecf3">dim_region</text></g></svg>

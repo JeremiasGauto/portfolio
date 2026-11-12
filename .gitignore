@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.claude/
+__pycache__/
+*.pyc
+# Archivos de trabajo pesados que no van al sitio
+*.pbix
+*.pbit
+*.mov
